@@ -1,0 +1,24 @@
+{
+  "name": "es6-babel-starter",
+  "version": "0.0.0",
+  "description": "This is a simple repo to work with ES6. Using babel as transcompiler and browserify to bundle files.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertosljunior/es6-babel-starter.git"
+  },
+  "author": "Roberto Silva <robertosljunior@yahoo.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertosljunior/es6-babel-starter/issues"
+  },
+  "homepage": "https://github.com/robertosljunior/es6-babel-starter#readme",
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
